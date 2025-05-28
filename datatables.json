@@ -1,0 +1,18 @@
+{
+    "js": [
+        "js/columnControl.bootstrap5.js",
+        "js/columnControl.bootstrap5.min.js",
+        "js/columnControl.bootstrap5.min.mjs",
+        "js/columnControl.bootstrap5.mjs"
+    ],
+    "css": [
+        "css/columnControl.bootstrap5.css",
+        "css/columnControl.bootstrap5.min.css"
+    ],
+    "types": [
+        "types/columnControl.bootstrap5.d.ts"
+    ],
+    "src-repo": "http://github.com/DataTables/ColumnControl",
+    "last-tag": "0.0.1",
+    "last-sync": ""
+}
