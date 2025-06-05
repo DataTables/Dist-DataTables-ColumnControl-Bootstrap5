@@ -37,7 +37,7 @@
   --dtcc-search-input_margin-top: 0.5em;
   --dtcc-search-input_padding-right: 32px;
   --dtcc-list-buttons_max-height: 300px;
-  --dtcc-list-buttons_background: rgb(var(--bs-tertiary-bg-rgb));
+  --dtcc-list-buttons_background: rgb(var(--bs-secondary-bg-rgb));
 }
 :root .dropdown-menu {
   --dtcc-dropdown_background: var(--bs-dropdown-bg);
