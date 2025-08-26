@@ -10,8 +10,8 @@
         <license type="expression">MIT</license>
         <tags>ColumnControl  search  filter  buttons  column visibility  Bootstrap  Bootstrap5  Datatables jQuery table</tags>
         <dependencies>
-            <dependency id="datatables.net-columncontrol" version="0.0.1"/>
-            <dependency id="datatables.net-bs5" version="2.3.1"/>
+            <dependency id="datatables.net-columncontrol" version="1.0.7"/>
+            <dependency id="datatables.net-bs5" version="2.3.2"/>
         </dependencies>
         <contentFiles>
             <files include="**/*" buildAction="Content"/>
@@ -22,6 +22,10 @@
         <file src="js/columnControl.bootstrap5.js" target="contentFiles\any\any\wwwroot\js"/>
         <file src="js/columnControl.bootstrap5.min.js" target="content\Scripts"/>
         <file src="js/columnControl.bootstrap5.min.js" target="contentFiles\any\any\wwwroot\js"/>
+        <file src="js/columnControl.bootstrap5.min.mjs" target="content\Scripts"/>
+        <file src="js/columnControl.bootstrap5.min.mjs" target="contentFiles\any\any\wwwroot\js"/>
+        <file src="js/columnControl.bootstrap5.mjs" target="content\Scripts"/>
+        <file src="js/columnControl.bootstrap5.mjs" target="contentFiles\any\any\wwwroot\js"/>
         <file src="css/columnControl.bootstrap5.css" target="content\Content"/>
         <file src="css/columnControl.bootstrap5.css" target="contentFiles\any\any\wwwroot\css"/>
         <file src="css/columnControl.bootstrap5.min.css" target="content\Content"/>
