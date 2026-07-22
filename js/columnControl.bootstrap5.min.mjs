@@ -1,4 +1,4 @@
-/*! ColumnControl Bootstrap 5 styling 2.0.0-beta.1 for DataTables
+/*! ColumnControl Bootstrap 5 styling 2.0.0 for DataTables
  * Copyright (c) SpryMedia Ltd - datatables.net/license
  */
 import DataTable from"datatables.net-bs5";import ColumnControl from"datatables.net-columncontrol";DataTable.ColumnControl.content.dropdown.classes.container=["dtcc-dropdown","dropdown-menu","show"],DataTable.ColumnControl.CheckList.classes.input=["dtcc-list-search","form-control","form-control-sm"],DataTable.ColumnControl.SearchInput.classes.input=["form-control","form-control-sm"],DataTable.ColumnControl.SearchInput.classes.select=["form-select","form-select-sm"];export default DataTable;
