@@ -1,6 +1,6 @@
 {
     "name": "datatables.net/datatables.net-columncontrol-bs5",
-    "description": "ColumnControl for DataTables with styling for [Bootstrap5](https://getbootstrap.com/)",
+    "description": "ColumnControl for DataTables with styling for Bootstrap5",
     "support": {
         "forum": "https://datatables.net/forums",
         "source": "https://github.com/DataTables/Dist-DataTables-ColumnControl-Bootstrap5"
