@@ -42,9 +42,10 @@
     "exports": {
         ".": {
             "types": "./types/columnControl.bootstrap5.d.ts",
+            "style": "./css/columnControl.bootstrap5.css",
             "import": "./js/columnControl.bootstrap5.mjs",
-            "default": "./js/columnControl.bootstrap5.mjs",
-            "require": "./js/columnControl.bootstrap5.js"
+            "require": "./js/columnControl.bootstrap5.js",
+            "default": "./js/columnControl.bootstrap5.mjs"
         },
         "./js/*": "./js/*",
         "./css": {
